@@ -1,7 +1,7 @@
 body {
   background-image: url('banner.jpg');
 
-  background-size: 1000px 350px;
+  background-size: 1000px 500px;
   background-repeat:no-repeat;
 }
 .main
@@ -33,6 +33,6 @@ input
 border-radius: 25px;
     background: #d1d1e0;
     
-    width:100px;
+    width:100%;
     
 }
