@@ -3,7 +3,9 @@ body {
 }
 .main
 {
+background:white;
 margin:auto;
+
 }
 .sign up
 {
@@ -12,6 +14,11 @@ text-align:center;
 }
 .register
 {
+color:white;
 background:black;
 text-align:center;
+}
+button
+{
+background:black;
 }
