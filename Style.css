@@ -1,6 +1,7 @@
 body {
   background-image: url('banner.jpg');
   background-size:300px 100px;
+  background-repeat:no-repeat;
 }
 .main
 {
