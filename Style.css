@@ -1,17 +1,16 @@
 body {
   background-image: url('banner.jpg');
-  background-size:auto;
+  background-size:500px 800px;
   background-repeat:no-repeat;
 }
 .main
 {
 background:white;
 margin:30%;
-text-align:center;
 }
 .sign up
 {
-paddig:50%;
+Padding-top:50%;
 font-size:66;
 text-align:center;
 }
