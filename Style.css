@@ -25,6 +25,7 @@ text-align:center;
 }
 button
 {
+border: none;
 color:white;
 background:black;
 }
