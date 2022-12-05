@@ -5,11 +5,12 @@ body {
 .main
 {
 background:white;
-margin:auto;
+margin:40%;
 
 }
 .sign up
 {
+paddig:50%;
 font-size:36;
 text-align:center;
 }
