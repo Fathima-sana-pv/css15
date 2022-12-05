@@ -1,6 +1,6 @@
 body {
   background-image: url('banner.jpg');
-  background-size:500px 800px;
+  background-size:900px 800px;
   background-repeat:no-repeat;
 }
 .main
@@ -10,7 +10,8 @@ margin:30%;
 }
 .sign up
 {
-Padding-top:50%;
+padding-top:40%;
+padding-left:35%;
 font-size:66;
 text-align:center;
 }
