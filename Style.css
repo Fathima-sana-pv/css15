@@ -1,8 +1,8 @@
 body {
   background-image: url('banner.jpg');
 
-  width:auto;
-  height:auto;
+  width:1000px;
+  height:350px;
   background-repeat:no-repeat;
 }
 .main
