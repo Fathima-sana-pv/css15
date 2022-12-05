@@ -28,3 +28,11 @@ button
 color:white;
 background:black;
 }
+input
+{
+border-radius: 25px;
+    background: #d1d1e0;
+    
+    width: auto;
+    
+}
