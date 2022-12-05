@@ -1,6 +1,10 @@
 body {
   background-image: url('banner.jpg');
 }
+.main
+{
+margin:auto;
+}
 .sign up
 {
 font-size:36;
