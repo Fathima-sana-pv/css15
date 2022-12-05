@@ -5,13 +5,13 @@ body {
 .main
 {
 background:white;
-margin:40%;
-
+margin:80%;
+text-align:center;
 }
 .sign up
 {
-paddig:50%;
-font-size:36;
+paddig:80%;
+font-size:66;
 text-align:center;
 }
 .register
